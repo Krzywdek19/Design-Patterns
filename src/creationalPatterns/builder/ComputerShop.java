@@ -1,4 +1,4 @@
-package creationalPatterns;
+package creationalPatterns.builder;
 
 public class ComputerShop {
     public static void main(String[] args) {

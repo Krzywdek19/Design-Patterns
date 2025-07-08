@@ -1,4 +1,4 @@
-package creationalPatterns;
+package creationalPatterns.builder;
 
 import java.time.LocalDateTime;
 
